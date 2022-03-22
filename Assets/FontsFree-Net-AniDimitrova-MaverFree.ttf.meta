@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 02677a9c06e74bc418dcb39af32695cd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Maver
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3072d6ab9c8500d439989d8efb9a9c8d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
